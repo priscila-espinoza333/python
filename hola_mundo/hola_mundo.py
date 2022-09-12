@@ -4,10 +4,13 @@ print( "hola mundo")
 # 2. imprime "Hola, Noelle" con el nombre en una variable
 name = "Noelle"
 print( "hola", name )	# con una coma
-
 print( "hola"+name )	# con un +
+
 # 3. imprimir "Hola 42!" con el número en una variable
 name = 42
+var = 42
+print("hola", var)
+
 """print( tu código aquí )	# con una coma
 print( tu código aquí )	# con una +	-- este debería arrojar un error!
 # 4. imprimir "Amo comer sushi y pizza" con las comidas en variables
